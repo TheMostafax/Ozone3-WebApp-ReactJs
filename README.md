@@ -4,7 +4,7 @@ A Professional Web-App using ReactJs and Tailwind (Responsive to mobile phones)
 <h1 align="center">Project Description </h1>
 
 
-Ozone3 Studio is a web application built using ReactJs that provides a platform for recording, singing, and acting in a studio. The application has 6 pages: Home, About Us, Our Works, Contact Form, Sign In, and Sign Up. In this document, we will discuss the features and functionality of each of these pages. The web app is also fully responsive for all mobile devices that can view the web app full clear.
+Ozone3 Studio is a web application built using ReactJs that provides a platform for recording, singing, and acting in a studio. The application has 4 pages: Home, About Us, Our Works, Contact Form. The Web-App is also fully responsive for all mobile devices that can view the web app full clear.
 
 <hr>
 
