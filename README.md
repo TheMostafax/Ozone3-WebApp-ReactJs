@@ -1,5 +1,5 @@
 # Ozone3-WebApp-ReactJs
-A Professional Web-App using ReactJs and Tailwindcss (Responsive for mobile phones)
+Web-App using ReactJs and Tailwindcss (Responsive for mobile phones)
 
 <h1 align="center">Project Description </h1>
 
